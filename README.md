@@ -1,1 +1,3 @@
-# SRCNN for 3-channel images
+# Implementation of SRCNN
+
+Pytorch implementation of super-resolution using CNN
